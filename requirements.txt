@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+groq
+dotenv
+streamlit
+sentence-transformers
+chromadb
+numpy
+uuid
+scikit-learn
+pypdf
+pymupdf
+pathlib
+pip install requests beautifulsoup4 lxml readability-lxml tldextract
+
